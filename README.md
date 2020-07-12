@@ -45,7 +45,7 @@ Check out the youtube video for a step by step walk through
 ## Troubleshooting
 * Spotify Oauth token expires very quickly, If you come across a `KeyError` this could
 be caused by an expired token. So just refer back to step 3 in local setup, and generate a new
-token !  
+token!  
 
 
    [Youtube Data API v3]: <https://developers.google.com/youtube/v3>
