@@ -1,4 +1,4 @@
-#This is Copy project from other User.
+Attention! This is Copy project from other Github User for learning purposes.
 
 
 # SpotifyGeneratePlaylist
