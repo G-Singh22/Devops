@@ -70,7 +70,6 @@ class CreatePlaylist:
 
                 }
 
-
     def create_playlist(self):
         """Create A New Playlist"""
         request_body = json.dumps({
